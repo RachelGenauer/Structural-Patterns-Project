@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Server\\Projects\\Structural_Patterns_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA111A6-544B-42BD-BA3B-7438C8327379}|StructuralPatterns\\StructuralPatterns.csproj|h:\\server\\projects\\structural_patterns_project\\structuralpatterns\\bridge\\backgroundcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA111A6-544B-42BD-BA3B-7438C8327379}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\bridge\\backgroundcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA111A6-544B-42BD-BA3B-7438C8327379}|StructuralPatterns\\StructuralPatterns.csproj|h:\\server\\projects\\structural_patterns_project\\structuralpatterns\\bridge\\foregroundcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA111A6-544B-42BD-BA3B-7438C8327379}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\bridge\\foregroundcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA111A6-544B-42BD-BA3B-7438C8327379}|StructuralPatterns\\StructuralPatterns.csproj|h:\\server\\projects\\structural_patterns_project\\structuralpatterns\\bridge\\icolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA111A6-544B-42BD-BA3B-7438C8327379}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\bridge\\icolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA111A6-544B-42BD-BA3B-7438C8327379}|StructuralPatterns\\StructuralPatterns.csproj|h:\\server\\projects\\structural_patterns_project\\structuralpatterns\\bridge\\iconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA111A6-544B-42BD-BA3B-7438C8327379}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\bridge\\iconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA111A6-544B-42BD-BA3B-7438C8327379}|StructuralPatterns\\StructuralPatterns.csproj|h:\\server\\projects\\structural_patterns_project\\structuralpatterns\\adapter\\adapterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA111A6-544B-42BD-BA3B-7438C8327379}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\adapter\\adapterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA111A6-544B-42BD-BA3B-7438C8327379}|StructuralPatterns\\StructuralPatterns.csproj|h:\\server\\projects\\structural_patterns_project\\structuralpatterns\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA111A6-544B-42BD-BA3B-7438C8327379}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IColor.cs",
+              "DocumentMoniker": "H:\\Server\\Projects\\Structural_Patterns_Project\\StructuralPatterns\\Bridge\\IColor.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\Bridge\\IColor.cs",
+              "ToolTip": "H:\\Server\\Projects\\Structural_Patterns_Project\\StructuralPatterns\\Bridge\\IColor.cs",
+              "RelativeToolTip": "StructuralPatterns\\Bridge\\IColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:14:37.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IConsole.cs",
+              "DocumentMoniker": "H:\\Server\\Projects\\Structural_Patterns_Project\\StructuralPatterns\\Bridge\\IConsole.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\Bridge\\IConsole.cs",
+              "ToolTip": "H:\\Server\\Projects\\Structural_Patterns_Project\\StructuralPatterns\\Bridge\\IConsole.cs",
+              "RelativeToolTip": "StructuralPatterns\\Bridge\\IConsole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:14:36.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackGroundColor.cs",
+              "DocumentMoniker": "H:\\Server\\Projects\\Structural_Patterns_Project\\StructuralPatterns\\Bridge\\BackGroundColor.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\Bridge\\BackGroundColor.cs",
+              "ToolTip": "H:\\Server\\Projects\\Structural_Patterns_Project\\StructuralPatterns\\Bridge\\BackGroundColor.cs",
+              "RelativeToolTip": "StructuralPatterns\\Bridge\\BackGroundColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:14:34.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ForeGroundColor.cs",
+              "DocumentMoniker": "H:\\Server\\Projects\\Structural_Patterns_Project\\StructuralPatterns\\Bridge\\ForeGroundColor.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\Bridge\\ForeGroundColor.cs",
+              "ToolTip": "H:\\Server\\Projects\\Structural_Patterns_Project\\StructuralPatterns\\Bridge\\ForeGroundColor.cs",
+              "RelativeToolTip": "StructuralPatterns\\Bridge\\ForeGroundColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:14:29.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdapterClass.cs",
+              "DocumentMoniker": "H:\\Server\\Projects\\Structural_Patterns_Project\\StructuralPatterns\\Adapter\\AdapterClass.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\Adapter\\AdapterClass.cs",
+              "ToolTip": "H:\\Server\\Projects\\Structural_Patterns_Project\\StructuralPatterns\\Adapter\\AdapterClass.cs",
+              "RelativeToolTip": "StructuralPatterns\\Adapter\\AdapterClass.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowEYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:13:58.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "H:\\Server\\Projects\\Structural_Patterns_Project\\StructuralPatterns\\IBook.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\IBook.cs",
+              "ToolTip": "H:\\Server\\Projects\\Structural_Patterns_Project\\StructuralPatterns\\IBook.cs",
+              "RelativeToolTip": "StructuralPatterns\\IBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:12:39.503Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

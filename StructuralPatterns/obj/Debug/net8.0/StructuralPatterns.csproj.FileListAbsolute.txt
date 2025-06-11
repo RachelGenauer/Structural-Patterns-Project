@@ -1,0 +1,42 @@
+S:\HandesaimV\Students\Group3\לוסטיג מוריה\Life'sChallenges\SP\New\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.exe
+S:\HandesaimV\Students\Group3\לוסטיג מוריה\Life'sChallenges\SP\New\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.deps.json
+S:\HandesaimV\Students\Group3\לוסטיג מוריה\Life'sChallenges\SP\New\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.runtimeconfig.json
+S:\HandesaimV\Students\Group3\לוסטיג מוריה\Life'sChallenges\SP\New\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.dll
+S:\HandesaimV\Students\Group3\לוסטיג מוריה\Life'sChallenges\SP\New\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.pdb
+S:\HandesaimV\Students\Group3\לוסטיג מוריה\Life'sChallenges\SP\New\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.GeneratedMSBuildEditorConfig.editorconfig
+S:\HandesaimV\Students\Group3\לוסטיג מוריה\Life'sChallenges\SP\New\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.AssemblyInfoInputs.cache
+S:\HandesaimV\Students\Group3\לוסטיג מוריה\Life'sChallenges\SP\New\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.AssemblyInfo.cs
+S:\HandesaimV\Students\Group3\לוסטיג מוריה\Life'sChallenges\SP\New\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.csproj.CoreCompileInputs.cache
+S:\HandesaimV\Students\Group3\לוסטיג מוריה\Life'sChallenges\SP\New\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.dll
+S:\HandesaimV\Students\Group3\לוסטיג מוריה\Life'sChallenges\SP\New\StructuralPatterns\obj\Debug\net8.0\refint\StructuralPatterns.dll
+S:\HandesaimV\Students\Group3\לוסטיג מוריה\Life'sChallenges\SP\New\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.pdb
+S:\HandesaimV\Students\Group3\לוסטיג מוריה\Life'sChallenges\SP\New\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.genruntimeconfig.cache
+S:\HandesaimV\Students\Group3\לוסטיג מוריה\Life'sChallenges\SP\New\StructuralPatterns\obj\Debug\net8.0\ref\StructuralPatterns.dll
+H:\Life'sChallenges\SP\New\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.exe
+H:\Life'sChallenges\SP\New\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.deps.json
+H:\Life'sChallenges\SP\New\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.runtimeconfig.json
+H:\Life'sChallenges\SP\New\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.dll
+H:\Life'sChallenges\SP\New\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.pdb
+H:\Life'sChallenges\SP\New\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.GeneratedMSBuildEditorConfig.editorconfig
+H:\Life'sChallenges\SP\New\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.AssemblyInfoInputs.cache
+H:\Life'sChallenges\SP\New\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.AssemblyInfo.cs
+H:\Life'sChallenges\SP\New\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.csproj.CoreCompileInputs.cache
+H:\Life'sChallenges\SP\New\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.dll
+H:\Life'sChallenges\SP\New\StructuralPatterns\obj\Debug\net8.0\refint\StructuralPatterns.dll
+H:\Life'sChallenges\SP\New\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.pdb
+H:\Life'sChallenges\SP\New\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.genruntimeconfig.cache
+H:\Life'sChallenges\SP\New\StructuralPatterns\obj\Debug\net8.0\ref\StructuralPatterns.dll
+H:\Server\Projects\Structural_Patterns_Project\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.exe
+H:\Server\Projects\Structural_Patterns_Project\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.deps.json
+H:\Server\Projects\Structural_Patterns_Project\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.runtimeconfig.json
+H:\Server\Projects\Structural_Patterns_Project\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.dll
+H:\Server\Projects\Structural_Patterns_Project\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.pdb
+H:\Server\Projects\Structural_Patterns_Project\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.GeneratedMSBuildEditorConfig.editorconfig
+H:\Server\Projects\Structural_Patterns_Project\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.AssemblyInfoInputs.cache
+H:\Server\Projects\Structural_Patterns_Project\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.AssemblyInfo.cs
+H:\Server\Projects\Structural_Patterns_Project\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.csproj.CoreCompileInputs.cache
+H:\Server\Projects\Structural_Patterns_Project\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.dll
+H:\Server\Projects\Structural_Patterns_Project\StructuralPatterns\obj\Debug\net8.0\refint\StructuralPatterns.dll
+H:\Server\Projects\Structural_Patterns_Project\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.pdb
+H:\Server\Projects\Structural_Patterns_Project\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.genruntimeconfig.cache
+H:\Server\Projects\Structural_Patterns_Project\StructuralPatterns\obj\Debug\net8.0\ref\StructuralPatterns.dll
